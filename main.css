@@ -263,17 +263,7 @@ div#popout_7505 {
 	-webkit-box-shadow: none !important;
     box-shadow: none !important;
 }
-/*sticky home button*/
-div .tutorialContainer-1v44GL {
-    position: sticky;
-    top: -12px;
-    padding-top: 12px;
-    padding-bottom: 1px !important;
-    border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;
-    z-index: 100;
-    background: var(--Colleft) !important;
-  }
+
 .chat-3bRxxu,
 .container-1D34oG,
 .libraryHeader-3g95kE,
@@ -291,21 +281,6 @@ div .tutorialContainer-1v44GL {
 }
 .scroller-2FKFPG.scroller-2TZvBN {
     border-top-left-radius: 0px !important;
-}
-
-/*new pill*/
-.text-2e2ZyG { /*the new text*/
-    display: none;
-}
-
-.bar-30k2ka { /*the actual pill*/
-    width: 16px;
-    height: 16px;
-    float: right;
-    margin-right: -1px;
-    margin-top: -4px;
-    opacity: 1;
-    border: 1px solid #ffffff70;
 }
 
 /*----//----JUMP BARS----------*/
